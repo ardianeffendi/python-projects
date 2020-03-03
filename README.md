@@ -1,2 +1,2 @@
 # python-projects
-Python' files from my big and side projects
+Mostly about implementing different data structures and learning about classes in Python.
